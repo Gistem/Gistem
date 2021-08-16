@@ -4,13 +4,19 @@
 
 ## I'm a Full Stack Web Developer, interested in creating solutions for daily life. Fascinated about swimming - music & physics
 
-#const techSkills = {JavaScript, ReactJS, NodeJS, Express, PostgreSQL, HTML, CSS};
-#{...myBrain, ...techSkills}
+#### const techSkills = {JavaScript, ReactJS, NodeJS, Express, PostgreSQL, HTML, CSS};
+_____________________________
+#### {...myBrain, ...techSkills}
+_____________________________
 
   - 👾 I'm currently working with {...techSkills, ...Socket.io, ...JWT, ...Chakra.ui}
   - 👨‍💻 Currently developing WIPIT Board
   - 🔭 Available for work
   
-  ### 📫 Reach me at
-  
+  ### 📫 Reach me at  
   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gaston-saralegui-2a63681ba/)
+  
+  Have a question or want to work together?
+  ________________________
+  Email: gasti.95lp@gmail.com  
+  
