@@ -4,7 +4,10 @@
 
 ## I'm a Full Stack Web Developer, interested in creating solutions for daily life. Fascinated about swimming - music & physics
 
-  - 👾 I'm currently (working on) => JavaScript && ReactJs && NodeJs && PostgreSQL && Express
+#const techSkills = {JavaScript, ReactJS, NodeJS, Express, PostgreSQL, HTML, CSS};
+#{...myBrain, ...techSkills}
+
+  - 👾 I'm currently working with {...techSkills, ...Socket.io, ...JWT, ...Chakra.ui}
   - 👨‍💻 Currently developing WIPIT Board
   - 🔭 Available for work
   
