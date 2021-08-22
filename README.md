@@ -6,7 +6,7 @@
 
 #### const techSkills = {JavaScript, ReactJS, NodeJS, Express, PostgreSQL, HTML, CSS};
 
-#### {...myBrain, ...techSkills}
+####{...myBrain, ...techSkills}
 _____________________________
 
   - 👾 I'm currently working with {...techSkills, ...Socket.io, ...JWT, ...Chakra.ui}
