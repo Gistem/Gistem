@@ -5,7 +5,7 @@
 ## I'm a Full Stack Web Developer, interested in creating solutions for daily life. Fascinated about swimming - music & physics
 
 #### const techSkills = {JavaScript, ReactJS, NodeJS, Express, PostgreSQL, HTML, CSS};
-_____________________________
+
 #### {...myBrain, ...techSkills}
 _____________________________
 
