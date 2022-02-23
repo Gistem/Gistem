@@ -2,16 +2,28 @@
 
 ### Hi there 👋
 
-## I'm a Full Stack Web Developer, interested in creating solutions for daily life. Fascinated about swimming - music & physics
+## I'm a Full Stack Web Developer, interested in creating solutions for daily life. Fascinated about swimming, music, physics & anathomy.
 
-#### const techSkills = {JavaScript, ReactJS, NodeJS, Express, PostgreSQL, HTML, CSS};
+```
+ const frontEndSkills = { JavaScript, TypeScript, React, Nextjs, Redux, Tailwindcss, CSS, HTML }
 
-#### {...myBrain, ...techSkills}
+ const backEndSkills = { NodeJS, Express, PostgreSQL, MongoDB };
+
+ const softSkills = { Creative, Curious, LearningLover, TeamSpirit, Proactive }
+```
+
+```
+ const Me = { ...frontEndSkills, ...backEndSkills, softSkills }
+```
 _____________________________
 
-  - 👾 I'm currently working with {...techSkills, ...Socket.io, ...JWT, ...Chakra.ui}
-  - 👨‍💻 Currently developing WIPIT Board
+
+
+  - 👾 I'm currently studying Web3 & Blockchain
+  - 👨‍💻 Currently working on personal projects 
   - 🔭 Available for work
+  
+
   
   ### 📫 Reach me at  
   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gaston-saralegui-2a63681ba/)
